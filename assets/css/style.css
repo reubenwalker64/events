@@ -6,7 +6,7 @@ body {
  }
 
 .marketing-site-hero {
-  background: url("https://mobile-atom.com/wp-content/uploads/2019/01/Computer-Background.jpg") top right no-repeat;
+  background: url("../images/computers-web4.jpg") top right no-repeat;
   height: 100vh;
   background-size: cover;
   display: -webkit-flex;
@@ -20,7 +20,7 @@ body {
 
 @media screen and (min-width: 40em) {
   .marketing-site-hero {
-    background-position: center center;
+    background-position: center ;
   }
 }
 
@@ -32,12 +32,16 @@ body {
 }
 
 .marketing-site-hero-content h1 {
-  font-size: 32px;
+  font-size: 36px !Important;
 }
 
 .marketing-site-hero-content p {
   font-size: 18px;
   text-align: justify;
+  color: dimgrey;
+  width: 450px;
+  margin: auto;
+  
 }
 
 .marketing-site-hero-content .button.round {
@@ -74,7 +78,7 @@ body {
 }
 
 .heading1Text {
-  margin-top: 120px;
+  margin-top: 20px;
   margin-bottom: 10px;
   font-size: 36px !important;
   font-family: 'Cinzel', serif !Important;
@@ -226,7 +230,7 @@ form .form-icons {
 
 .foundation {
   text-align: justify;
-  font-size: 18px;
+  font-size: 16px;
   margin-left: 60px;
   margin-right: 60px;
   

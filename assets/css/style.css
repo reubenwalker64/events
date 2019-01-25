@@ -33,13 +33,15 @@ body {
 
 .marketing-site-hero-content h1 {
   font-size: 36px !Important;
+  width: auto;
+  margin: auto;
 }
 
 .marketing-site-hero-content p {
   font-size: 18px;
   text-align: justify;
   color: dimgrey;
-  width: 450px;
+  width: auto;
   margin: auto;
   
 }

@@ -32,9 +32,8 @@ body {
 }
 
 .marketing-site-hero-content h1 {
-  font-size: 36px !Important;
-  width: auto;
-  margin: auto;
+  font-size: 32px !Important;
+    
 }
 
 .marketing-site-hero-content p {
@@ -82,7 +81,7 @@ body {
 .heading1Text {
   margin-top: 20px;
   margin-bottom: 10px;
-  font-size: 36px !important;
+  font-size: 32px !important;
   font-family: 'Cinzel', serif !Important;
 }
 
@@ -193,7 +192,7 @@ form .form-icons {
 
   h1 {
     text-align: center;
-    font-size: 36px !important;
+    font-size: 32px !important;
     font-family: 'Cinzel', serif !Important;
   }
 

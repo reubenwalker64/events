@@ -15,7 +15,7 @@ body {
   -webkit-align-items: center;
       -ms-flex-align: center;
           align-items: center;
-  border-bottom: 10px solid lightgrey;
+  margin-bottom: 200px;
 }
 
 @media screen and (min-width: 40em) {

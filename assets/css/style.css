@@ -147,6 +147,10 @@ form .form-icons {
 
   /*Results from APIs*/
 
+.resultsHR {
+    max-width: 400px !important;
+}
+
   .apiEvent {
     text-align: center;
     
@@ -159,13 +163,13 @@ form .form-icons {
   }
 
   #venue-div {
-    margin-left: 60px;
+    margin-left: 0px;
     margin-top: 30px;
     margin-bottom: 30px;
   }
 
   #weather-div {
-    margin-left: 60px;
+    margin-left: 120px;
     margin-top: 30px;
     margin-bottom: 30px;
   }
